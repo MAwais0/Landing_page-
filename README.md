@@ -12,7 +12,7 @@ Working on this project, I designed and developed a clean, user-friendly landing
 - 🌱 I've a strong grip on *HTML , CSS and Bootstrap 5*
 
 - 🌱 I’m currently learning *Java Script & ReactJS*
-- 👨‍💻 My projects are available at https://github.com/MAwais0/Landing_page-.git
+- 👨‍💻 My projects are available at https://github.com/MAwais0/Landing_page-/tree/master
 
 - 💬 Ask me about *Html CSS Bootstrap or JavaScript*
 
